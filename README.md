@@ -1,7 +1,7 @@
 ### Oba Oba, Rafael Primon aqui, estudante, pai e apaixonado por tecnologia e transformação digital! 👋
 
 
-- 🔭 Atualmente advogado mas....apaixonado por tecnológia desde pequeno.
+- 🔭 Atualmente advogado mas....apaixonado por tecnológia e em desenvolvimento
 - 🌱 Estudo desenvolvimento web na Trybe, muitos cursos da Alura, JSstack, Lean Six-Sigma.
 - 😄 Pronouns: ele/dele
 - ⚡ Apaixonado por Senhor dos Anéis, contos fantásticos em geral, curioso por natureza, divido minha rotina entre trabalhar, estudar, cuidar da minha filha, e tentar aprender um pouquinho de cada coisa.
