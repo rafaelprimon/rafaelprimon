@@ -1,6 +1,5 @@
 ### Oba Oba, Rafael Primon aqui, estudante, pai e apaixonado por tecnologia e transformação digital! 👋
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmente advogado mas....apaixonado por tecnológia desde pequeno.
 - 🌱 Estudo desenvolvimento web na Trybe, muitos cursos da Alura, JSstack, Lean Six-Sigma.
