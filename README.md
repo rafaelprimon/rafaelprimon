@@ -11,10 +11,11 @@ Here are some ideas to get you started:
   ##
 
 <div align="center">
+  <img align="center" alt="Rafa-adeus" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914960621315969038/914965585157296138/tenor.gif">
   <a href="https://github.com/rafaelprimon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelprimon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelprimon&layout=compact&langs_count=7&theme=dracula"/>
-   <img align="center" alt="Rafa-adeus" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914960621315969038/914965585157296138/tenor.gif">
+
 </div>
   
 <div style="display: inline_block"><br>
